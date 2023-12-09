@@ -6,4 +6,5 @@ Sample input: N = 10
 Sample output: NotPrime
 
 Answer :
-![image](https://github.com/Riteshk229/RiteshUnibit/assets/100128015/1e7c041e-0967-4ad9-9266-38d50a519541)
+![image](https://github.com/Riteshk229/RiteshUnibit/assets/100128015/f07e33fe-40cc-47ee-972c-b3ea3fae2e5d)
+
