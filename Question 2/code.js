@@ -1,4 +1,6 @@
 // Given an integer N. Check whether N is prime or not. (Prime or Not Prime)
+// Sample input: N = 10
+// Sample output: NotPrime
 let number = prompt("Enter the number to check prime : ");
 
 function checkPrime(num){
